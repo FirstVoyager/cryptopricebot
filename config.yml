@@ -1,0 +1,8 @@
+# binance ticker api url
+binance_ticker_api : 'https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT'
+
+# telegram bot token
+telegramBotToken : '5550723317:AAGLeiEGPUj5HW8GGcKi7rFxDg67GrU0dL8'
+
+# telegram Channel id
+telegramChannelId : '-1001787262956'
