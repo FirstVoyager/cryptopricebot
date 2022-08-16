@@ -1,5 +1,5 @@
 # binance ticker api url
-binance_ticker_api : 'https://api.binance.com/api/v3/ticker/price?symbol=BTCUSDT'
+binance_ticker_api : 'https://api.binance.com/api/v3/ticker/price'
 
 # telegram bot token
 telegramBotToken : 'your_bot_token'
