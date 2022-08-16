@@ -4,3 +4,5 @@ Cryptocurrency price Telegram channel: [Click here](https://t.me/crypto_livePric
 ## To-Dos:
    + [X] Multi coin
    + [ ] Bot Alert
+   + [ ] Custom coins
+   + [ ] Multi exchange
