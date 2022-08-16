@@ -6,3 +6,18 @@ telegramBotToken : 'your_bot_token'
 
 # telegram Channel id
 telegramChannelId : '-1001787262956'
+
+# crypto list to get price data
+cryptoList :
+  - BTCUSDT
+  - ETHUSDT
+  - BNBUSDT
+  - ADAUSDT
+  - XRPUSDT
+  - SOLUSDT
+  - DOGEUSDT
+  - DOTUSDT
+  - SHIBUSDT
+
+# delay time for get data from binance in second
+delayTime : 10
