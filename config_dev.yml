@@ -2,7 +2,7 @@
 binance_ticker_api : 'https://api.binance.com/api/v3/ticker/price'
 
 # telegram bot token
-telegramBotToken : 'your_bot_token'
+telegramBotToken : '5550723317:AAGLeiEGPUj5HW8GGcKi7rFxDg67GrU0dL8'
 
 # telegram Channel id
 telegramChannelId : '-1001787262956'
@@ -25,4 +25,4 @@ cryptoList :
   - WBTCUSDT
 
 # delay time for get data from binance in second
-delayTime : 10
+delayTime: 10
